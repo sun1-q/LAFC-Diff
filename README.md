@@ -31,7 +31,7 @@
 
 *(Please ensure your uploaded architecture diagram correctly shows the first-stage directional arrows originating directly from the Fundus Structure (FS) input domain.)*
 
-![LAFC-Diff Architecture](./assets/architecture.png) 
+![LAFC-Diff Architecture](architecture.png)
 
 Building upon the adversarial diffusion model, our framework effectively addresses the issue of losing small lesions against complex backgrounds through three core modules:
 
